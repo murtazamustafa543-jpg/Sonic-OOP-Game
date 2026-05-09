@@ -25,26 +25,10 @@ This game is a fully playable, multi-system platformer that goes beyond a basic 
 
 The primary focus of this project was to apply **OOP principles** in building a scalable, modular game architecture where every system (players, enemies, levels, UI, collectibles) is independently designed and interconnected through clean class relationships.
 
----
-
-## 🎥 Gameplay Preview
-
-> Add your recorded gameplay GIFs here. Tools like ScreenToGif (Windows) or OBS Studio can be used to record and export GIFs.
-
-### Main Gameplay
-![Gameplay](assets/gameplay.gif)
-
-### Gravity Level — Level 3
-![Gravity Level](assets/gravity.gif)
-
-### Boss Fight — Level 4
-![Boss Fight](assets/boss.gif)
-
----
 
 ## 📸 Screenshots
 
-> Replace the placeholder paths below with your actual screenshot files inside an `assets/` folder.
+
 
 ### Main Menu
 ![Main Menu](assets/menu.png)
